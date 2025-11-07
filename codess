@@ -25,6 +25,7 @@ for i in range(0, n):
 Yin.append(inputs[i]*weights[i]) 
 print(round(sum(Yin),3))
 
+
 1b
 n = int(input("Enter number of elements : "))  
 print("Enter the inputs:") 
